@@ -130,7 +130,7 @@ BERT 在模型大框架上采用和 GPT 完全相同的两阶段模型，首先�
 
 <img src="/assets/img/nnlm-to-bert/bert.png" width="300px" style="display:block; margin:auto;">
 
-因此 BERT 不仅编码能力强大，而且对各种下游任务，Bert 都可以简单地通过改造输入输出部分来完成。但是 BERT 的优点同样也是它的缺陷，由于 BERT 构建的是双向语言模型，因而无法直接用于文本生成任务。
+因此 BERT 不仅编码能力强大，而且对各种下游任务，BERT 都可以简单地通过改造输入输出部分来完成。但是 BERT 的优点同样也是它的缺陷，由于 BERT 构建的是双向语言模型，因而无法直接用于文本生成任务。
 
 ### 小结
 
